@@ -1,5 +1,3 @@
-Crie um programa capaz de ler os lados de um triangulo e informar se o mesmo é equilátero (3 lados iguais), isósceles (2 lados iguais) 
-ou escaleno (todos os lados diferentes). Use formulários. (3 esc)
 <!DOCTYPE html>
 <html>
 <head>
